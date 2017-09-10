@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"style.css\t(header.html)"
+			],
+			[
+				"c",
+				"c\tcolor: #${1:000};"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"div",
+				"div\t<div>"
+			],
+			[
+				"co",
+				"console_log"
+			],
+			[
+				"d",
+				"document\t(index.html)"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"l",
+				"label\t(index.html)"
+			],
+			[
+				"p",
+				"p\tpadding"
+			],
+			[
+				"ou",
+				"outline"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"lab",
+				"label\tTag"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"ff",
+				"ff-s\tfont-family: serif;"
+			],
+			[
+				"si",
+				"sign-in"
+			],
+			[
+				"r",
+				"rgba\trgba() creates a Color from red, green, blue and alpha values"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"ma",
+				"main\t<main>"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"b",
+				"bg\tbackground"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"upper",
+				"uppercase"
+			],
+			[
+				"tr",
+				"transition\t(_pineapple-sass.scss)"
+			],
+			[
+				"cl",
+				"clearfix\t(_pineapple-sass.scss)"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"lig",
+				"lighten"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"line",
+				"line-h"
+			],
+			[
+				"t",
+				"translate()"
+			],
+			[
+				"ty",
+				"type=\"submit\t(index.php)"
+			],
+			[
+				"su",
+				"submit\t(index.php)"
+			],
+			[
+				"in",
+				"input\t(index.php)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"body\t(index.php)"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"E",
+				"Enter"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"imag",
+				"img-polaroid\t bootstrap.min.css"
+			],
+			[
+				"bor",
+				"border-radius\t(_variables.scss)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"back",
+				"background-gradient"
+			],
+			[
+				"ba",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"ReadmePlease"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"sft ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ft",
+				"FTPSync: Open README (Github)"
+			],
+			[
+				"f",
+				"FTPSync: Browse"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 121.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/vc/Desktop/site04_vc",
+		"/C/Users/vc/Desktop/site04_vc/development",
+		"/C/Users/vc/Desktop/site04_vc/development/css",
+		"/C/Users/vc/Desktop/site04_vc/production",
+		"/C/Users/vc/Desktop/site04_vc/production/css",
+		"/C/Users/vc/Desktop/site04_vc/production/js",
+		"/C/Users/vc/Desktop/site04_vc/work",
+		"/C/Users/vc/Desktop/site04_vc/work/sass",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/bootstrap-4.0.0-alpha.6/dist/js",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/materialize-src"
+	],
+	"file_history":
+	[
+		"/C/Users/vc/Desktop/site04_vc/production/footer.html",
+		"/C/Users/vc/Desktop/site04_vc/development/footer.html",
+		"/C/Users/vc/Desktop/site04_vc/development/header.html",
+		"/C/Users/vc/Desktop/site04_vc/node_modules/gulp-html-replace/lib/block.js",
+		"/C/Users/vc/Desktop/site04_vc/gulpfile.js",
+		"/C/Users/vc/Desktop/site04_vc/production/header.html",
+		"/C/storage/emulated/0/web/site03/oes/oes.css",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/style.scss",
+		"/C/Users/vc/Desktop/site04_vc/development/index.php",
+		"/C/Users/vc/Desktop/s.css",
+		"/C/wamp/alias/s04.conf",
+		"/C/wamp/alias/s03.conf",
+		"/C/Users/vc/Desktop/project/gulpfile.js",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/vc/Desktop/site04_vc/development/nav.html",
+		"/C/Users/vc/Desktop/site04_vc/development/css/style.css",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/bootstrap-4.0.0-alpha.6/scss/mixins/_clearfix.scss",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/bootstrap-4.0.0-alpha.6/dist/js/bootstrap.js",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/bootstrap-4.0.0-alpha.6/docs/_layouts/home.html",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/bootstrap-4.0.0-alpha.6/docs/_layouts/default.html",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/bootstrap-4.0.0-alpha.6/README.md",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/materialize-src/sass/materialize.scss",
+		"/C/Users/vc/Desktop/site04_vc/development/css/style1.css",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/style1.scss",
+		"/C/Users/vc/Desktop/site04_vc/development/index.html",
+		"/C/Users/vc/Desktop/site04_vc/sftp-config.json",
+		"/C/Users/vc/Desktop/site04_vc/development/index1111.html",
+		"/C/Users/vc/Desktop/site04_vc/work/js/script.js",
+		"/C/Users/vc/Desktop/site04_vc/production/css/style.css",
+		"/C/Users/vc/Desktop/as/gulp_a/gulpfile.js",
+		"/C/Users/vc/Desktop/site03_vc/index.php",
+		"/C/Users/vc/Desktop/site03_vc/node_modules/browser-sync/lib/server/proxy-server.js",
+		"/C/Users/vc/Desktop/site03_vc/node_modules/browser-sync/lib/server/snippet-server.js",
+		"/C/Users/vc/Desktop/site03_vc/node_modules/browser-sync/lib/async-tasks.js",
+		"/C/Users/vc/Desktop/site03_vc/node_modules/browser-sync/lib/browser-sync.js",
+		"/C/Users/vc/Desktop/site03_vc/node_modules/browser-sync/lib/snippet.js",
+		"/C/Users/vc/Desktop/site04_vc/development/index01.html",
+		"/C/Users/vc/Desktop/site04_vc/development/js/script.js",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/StatusBarFileSize/StatusBarFileSize.sublime-settings",
+		"/C/Users/vc/Desktop/site04_vc/prod/css/style.css",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/sass/materialize.scss",
+		"/C/Users/vc/Desktop/site04_vc/.sass-cache/af6dd3aac90966c1302b84533c2a322b91cdda43/_default.scssc",
+		"/C/Users/vc/Desktop/site04_vc/.sass-cache/c2faae75f68f3c40fcfdf0191b50fecdf6bd8814/_waves.scssc",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/style.css",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/velocity.min.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/waves.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/bin/materialize.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/bin/materialize.min.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/date_picker/picker.date.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/date_picker/picker.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/js/date_picker/picker.time.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/sass/components/_normalize.scss",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/sass/components/_waves.scss",
+		"/C/Users/vc/Desktop/site04_vc/dev/css/materialize-src/sass/components/date_picker/_default.scss",
+		"/C/Users/vc/Desktop/site04_vc/dev/font-awesome-4.7.0/css/font-awesome.css",
+		"/C/Users/vc/Desktop/site04_vc/dev/font-awesome-4.7.0/css/font-awesome.min.css",
+		"/C/Users/vc/Desktop/site04_vc/dev/font-awesome-4.7.0/less/font-awesome.less",
+		"/C/Users/vc/Desktop/site04_vc/dev/font-awesome-4.7.0/scss/font-awesome.scss",
+		"/C/Users/vc/Desktop/site04_vc/prod/js/script.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/index.html",
+		"/C/Users/vc/Desktop/site04_vc/dev/js/jquery.js",
+		"/C/Users/vc/Desktop/site04_vc/gulp_saa_file.js",
+		"/C/Users/vc/Desktop/kit/README.md",
+		"/C/Users/vc/Desktop/site04_vc/package.json",
+		"/C/Users/vc/Desktop/as/gulp_a/package.json",
+		"/C/Users/vc/Desktop/kit/package.json",
+		"/C/Users/vc/Desktop/kit/gulpfile.js",
+		"/C/Users/vc/Desktop/sd.js",
+		"/C/Users/vc/Desktop/cn.js",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Local/License.sublime_license",
+		"/C/users/vc/appdata/local/temp/sublime-sftp-browse-1504356711/tamilnow/public_html/css/home.css",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/tamilnow",
+		"/C/users/vc/appdata/local/temp/sublime-sftp-browse-1504356490/tamilnow/public_html/menu.html",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/ft",
+		"/C/Users/vc/Desktop/site04_vc/work/sass/_variables.scss",
+		"/C/Users/vc/Desktop/site04_vc/dev/js/script.js",
+		"/C/Users/vc/Desktop/site04_vc/dev/as.html",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+		"/C/Users/vc/Desktop/site03_vc/sftp-config.json",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/Default (Windows).sublime-keymap",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/vc/Desktop/site03_vc/oes.scss",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/README.md",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/vicky.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/vicky.tmTheme",
+		"/C/Users/vc/Desktop/project/gulp_0file.js",
+		"/C/Users/vc/Desktop/site03_vc/gulpfile.js",
+		"/C/Users/vc/Desktop/site03_vc/oes.css",
+		"/C/Users/vc/Desktop/site03_vc/materialize-src/sass/materialize.scss",
+		"/C/Users/vc/Desktop/site03_vc/_variables.scss",
+		"/C/Users/vc/Downloads/139381_116352_00_01_WX30_welcome",
+		"/C/Users/vc/Desktop/site03_vc/tc/index.php",
+		"/C/Users/vc/Desktop/site03_vc/materialize-src/sass/components/_cards.scss",
+		"/C/Users/vc/Desktop/site03_vc/materialize-src/README.md",
+		"/C/Users/vc/Desktop/site04_vc/dev/index01.html",
+		"/C/Users/vc/Desktop/site04_vc/dev/index.php",
+		"/C/Users/vc/Desktop/site04_vc/dev/font-awesome-4.7.0/less/variables.less",
+		"/C/Users/vc/Desktop/site04_vc/dev/dailyupdates.php",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/users/vc/appdata/local/temp/sublime-sftp-browse-1503902185/ft/web/site04/dev/index.html",
+		"/C/users/vc/appdata/local/temp/sublime-sftp-browse-1503900002/tamilnow/public_html/index.html",
+		"/C/Users/vc/Desktop/project/ft",
+		"/C/Users/vc/Desktop/project/work/development/index.html",
+		"/C/Users/vc/Desktop/project/work/tools/sass/styles.scss",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/vicky-vib.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/mac.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/vicky-vib.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/Brogrammer.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/Brogrammer.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/vc.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/vc.tmTheme",
+		"/C/Users/vc/Downloads/vc (1).tmTheme",
+		"/C/Users/vc/Downloads/vc.tmTheme",
+		"/C/Users/vc/Desktop/Material-Theme.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Colorsublime - Themes/cv.tmTheme",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/vc/Desktop/mac.json",
+		"/C/Users/vc/Desktop/project/work/tools/sass/_variables.scss",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/sass-textmate-bundle-master/README.md",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/vc/Desktop/ft/ft",
+		"/C/Users/vc/Desktop/ft/sftp-config.json",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/sassSolution/sassSolution.sublime-settings",
+		"/C/Users/vc/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dev/",
+			"dev",
+			"/*!",
+			"http://fian.my.id/Waves",
+			"images",
+			"w3cjs",
+			"path",
+			"$",
+			"placeholder",
+			"\\",
+			"gray",
+			"expand",
+			"extent",
+			"gutt",
+			"0E",
+			"0E181C",
+			"121F25",
+			"0E181C",
+			"21273D",
+			"gutter ",
+			"lable",
+			"\\",
+			"relative",
+			"position",
+			"card",
+			"$element-bottom-margin",
+			".card",
+			"h5",
+			"#ff6800",
+			"fa-fac",
+			"css Class",
+			"source.css meta.property-list.css meta.property-name.css support.type.property-name.css",
+			"css Class",
+			"String, Symbols, Inherited Class",
+			"oper",
+			"operto",
+			"263238",
+			"back",
+			"css ",
+			"Operator,",
+			"String, Symbols,",
+			"String, Symbols, Inherited Class, Markup Heading ",
+			"class",
+			",",
+			"l\":\"",
+			"vik",
+			"t\"",
+			"\"replacement\"",
+			"vik",
+			"l\"",
+			"actual\"",
+			"+\"",
+			"-\"",
+			"3\"",
+			"z\"",
+			"y\"",
+			"x\"",
+			"w\"",
+			"v\"",
+			"u\"",
+			"s\"",
+			"r\"",
+			"q\"",
+			"p\"",
+			"o\"",
+			"n\"",
+			"m\"",
+			"k\"",
+			"j\"",
+			"i\"",
+			"h\"",
+			"g\"",
+			"f\"",
+			"e\"",
+			"d\"",
+			"c\"",
+			"b\"",
+			"a\"",
+			"\"z-\"",
+			"\"u\"",
+			"\"top\"",
+			"\"s\"",
+			"\"n\"",
+			"\"k\"",
+			"\"j\"",
+			"\"i\"",
+			"\"he\"",
+			"\"e\"",
+			"\"bo\"",
+			"a",
+			"-\":",
+			"3\":",
+			"+\":",
+			"z\":",
+			"y\":",
+			"x\":",
+			"w\":",
+			"v\":",
+			"u\":",
+			"s\":",
+			"r\":",
+			"q\":",
+			"p\":",
+			"o\":",
+			"n\":",
+			"m\":",
+			"k\":",
+			"j\":",
+			"h\":",
+			"g\":",
+			"f\":",
+			"e\":",
+			"d\":",
+			"c\":",
+			"b\":",
+			"a\":",
+			"i\":",
+			"i\":\n",
+			";\"},\n",
+			"\"an",
+			"|",
+			"cur",
+			"{",
+			"rad-info-box",
+			"row",
+			" font-family:verdana,arial,geneva;",
+			"td",
+			"stdloginform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"development/",
+			"development",
+			"/*",
+			"/",
+			"extend",
+			"expand",
+			"/",
+			"lable",
+			"#ff8f00",
+			"l\":\"&",
+			"\"replacement\"",
+			"t \"",
+			"vik",
+			"actual\"",
+			"l \"",
+			"vik",
+			"+ \"",
+			"- \"",
+			"3 \"",
+			"z \"",
+			"y \"",
+			"x \"",
+			"w \"",
+			"v \"",
+			"u \"",
+			"s \"",
+			"r \"",
+			"q \"",
+			"p \"",
+			"o \"",
+			"n \"",
+			"m \"",
+			"k \"",
+			"j \"",
+			"i \"",
+			"h \"",
+			"g \"",
+			"f \"",
+			"e \"",
+			"d \"",
+			"c \"",
+			"b \"",
+			"a \"",
+			"-\",\"replacement\":",
+			"3\",\"replacement\":",
+			"+\",\"replacement\":",
+			"z\",\"replacement\":",
+			"y\",\"replacement\":",
+			"x\",\"replacement\":",
+			"w\",\"replacement\":",
+			"v\",\"replacement\":",
+			"u\",\"replacement\":",
+			"s\",\"replacement\":",
+			"r\",\"replacement\":",
+			"q\",\"replacement\":",
+			"p\",\"replacement\":",
+			"o\",\"replacement\":",
+			"n\",\"replacement\":",
+			"m\",\"replacement\":",
+			"k\",\"replacement\":",
+			"j\",\"replacement\":",
+			"h\",\"replacement\":",
+			"g\",\"replacement\":",
+			"f\",\"replacement\":",
+			"e\",\"replacement\":",
+			"d\",\"replacement\":",
+			"c\",\"replacement\":",
+			"b\",\"replacement\":",
+			"a\",\"replacement\":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 219.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 166.0
+	},
+	"pinned_build_system": "",
+	"project": "site04_vc.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\vc\\Desktop\\site03_vc\\site03_vc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

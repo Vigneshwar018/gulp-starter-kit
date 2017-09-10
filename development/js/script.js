@@ -1,0 +1,8 @@
+"use strict";
+
+// vcc
+
+var vic = "vicky asaaa";
+
+console.log(vic);
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNjcmlwdC5qcyJdLCJuYW1lcyI6WyJ2aWMiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUFBOztBQUVBLElBQUlBLE1BQU0sYUFBVjs7QUFFQUMsUUFBUUMsR0FBUixDQUFZRixHQUFaIiwiZmlsZSI6InNjcmlwdC5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vIHZjY1xyXG5cclxubGV0IHZpYyA9IFwidmlja3kgYXNhYWFcIjtcclxuXHJcbmNvbnNvbGUubG9nKHZpYyk7XHJcbiJdfQ==
