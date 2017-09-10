@@ -10,9 +10,4 @@
 	consequat.sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </section>
 
-
-
-
-
-
 <?php include("footer.html");?>
